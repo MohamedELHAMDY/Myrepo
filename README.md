@@ -63,12 +63,12 @@ Repository Structure
 How to Use This Repository
 Clone the repository:
 
-git clone https://github.com/<your-username>/agile-final-project.git
+git clone [[https://github.com/mohamedelhamdy/agile-final-project.git]
 cd agile-final-project
 
 View the Kanban board:
 
-Access the Kanban Board (https://github.com/MohamedELHAMDY/agile-final-project/)).
+Access the Kanban Board [(https://github.com/MohamedELHAMDY/agile-final-project/)).](https://github.com/MohamedELHAMDY/agile-final-project)
 
 Participate in sprints:
 Use the board to track the status of stories as they move through the Agile process.
